@@ -8,7 +8,7 @@ setTimeout((
 console.log('rodou'),5000))
 }) 
 
-
+/*
 
 // Initialising the canvas
 var canvas = document.querySelector('canvas'),
@@ -50,3 +50,4 @@ function draw() {
 // Loop the animation
 setInterval(draw, 33);
 
+*/
