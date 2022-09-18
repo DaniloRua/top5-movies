@@ -16,8 +16,17 @@ body {
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat; 
-    background-color: black;   
+    background-color: black;  
 
+}
+
+.bodyMatrix{
+    
+    background-position: top center;
+    background-size: 100% auto;
+    background-repeat: no-repeat; 
+    background-color: black;  
+    animation: fadeOut 4s forwards;
 }
 
 header{
@@ -82,7 +91,6 @@ section ul li:hover{
     transform: scale(1.1);
 }
 
-
 main section ul li:nth-child(1){
     animation: fromTheSide 0.7 .2s backwards; 
 }
@@ -97,6 +105,7 @@ main section ul li:nth-child(4){
 }
 main section ul li:nth-child(5){
     animation: fromTheSide 0.7 1s backwards; 
+    
 }
 
 
@@ -116,3 +125,18 @@ main section ul li:nth-child(5){
     }
 }
 
+@keyframes fadeOut{
+
+    from {
+       visibility: visible;
+       opacity: 1;
+
+    }
+
+    to{
+        visibility: hidden;
+        opacity: 0;
+    }
+
+
+}
