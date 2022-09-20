@@ -64,11 +64,12 @@ main {
     margin-top: 2%;
     display: grid;
     gap: 24px;
+   
 
 }
 
 section{
-   
+    overflow: hidden;
     font-size: 25px;
     line-height: 160%;
     
