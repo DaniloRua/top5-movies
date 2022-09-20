@@ -1,6 +1,6 @@
 ## The five favourite movies page
  
-![preview]() 
+![preview](/assests/preview.png) 
 
 >practicing:
 building a simple webpage about favourite movies.
