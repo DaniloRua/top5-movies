@@ -10,8 +10,12 @@
     color: antiquewhite;
     font-family: Brodway;
 }
+body{
+    background-color: black;
+}
 
-body { 
+
+.bodyOriginal { 
     background-image: url(./assests/estrelas.png);
     background-position: top center;
     background-size: 100% auto;
@@ -20,14 +24,17 @@ body {
 
 }
 
-.bodyMatrix{
-    
+.bodyFadeout{
+    background-image: url(./assests/estrelas.png);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat; 
     background-color: black;  
-    animation: fadeOut 4s forwards;
+    animation: fadeOut 5s forwards
+
 }
+
+
 
 header{
     
@@ -83,10 +90,6 @@ section ul{
     gap: 20px;
 }
 
-section ul li{
-    transition: transform 0.2s;
-
-}
 section ul li:hover{
     transform: scale(1.1);
 }
@@ -125,6 +128,7 @@ main section ul li:nth-child(5){
     }
 }
 
+
 @keyframes fadeOut{
 
     from {
@@ -132,7 +136,7 @@ main section ul li:nth-child(5){
        opacity: 1;
 
     }
-
+  
     to{
         visibility: hidden;
         opacity: 0;
