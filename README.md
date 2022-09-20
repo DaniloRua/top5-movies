@@ -1,6 +1,6 @@
 ## The five favourite movies page
  
-![preview](./.git/preview) 
+![preview]() 
 
 >practicing:
 building a simple webpage about favourite movies.
@@ -17,7 +17,7 @@ of Matrix rain and then just click to reload the page.
 
 p.s. The matrix rain effect is commented in code and extracted from https://codepen.io/yaclive/pen/EayLYO.
 
-![click to acess](https://DaniloRua.github.io/top5-movies)
+![click to acess](https://danilorua.github.io/top5-movies/)
 
 ## contact
 
