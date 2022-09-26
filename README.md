@@ -5,8 +5,8 @@
 >practicing:
 building a simple webpage about favourite movies.
 the page contain a display of five favourite movies with a easteregg.
-By left the clicking on the word favourite, the page will fade out and show the classic animation 
-of Matrix rain and then just click to reload the page.
+When you click on the word "favourite", the page will fade out and will start the classic animation 
+of Matrix rain, then just click anywhere to reload the page.
 
 ## tools
 
