@@ -4,8 +4,8 @@
 
 >practicing:
 building a simple webpage about favourite movies.
-the page contain a display of five favourite movies with a easteregg.
-When you click on the word "favourite", the page will fade out and will start the classic animation 
+The page contains a display of five favourite movies with a Easter egg.
+Easter egg: When you click on the word "favourite", the page will fade out and will start the classic animation 
 of Matrix rain, then just click anywhere to reload the page.
 
 ## tools
