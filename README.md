@@ -5,15 +5,16 @@
 >practicing:
 Simple webpage about favourite movies.
 The page contains a display of five favourite movies with a Easter egg.
-Easter egg: When you click on the word "favourite", the page will fade out and will start the classic animation 
+>Easter egg:
+When you click on the word "favourite", the page will fade out and will start the classic animation 
 of Matrix rain, then just click anywhere to reload the page.
 
 ## tools
 
--html
--css
+-HTML
+-CSS
 -JavaScript
--git & github
+-Git & Github
 
 p.s. The matrix rain effect is commented in code and extracted from https://codepen.io/yaclive/pen/EayLYO.
 
